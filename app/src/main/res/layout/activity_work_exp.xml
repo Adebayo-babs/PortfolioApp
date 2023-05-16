@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SkillsActivity">
+
+    <TextView
+        android:id="@+id/tvSkills"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:text="WORK EXPERIENCE"/>
+
+    <TextView
+        android:id="@+id/dot2"
+        android:text="Project Management"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:padding="10dp"
+        android:layout_margin="10dp" />
+
+    <TextView
+        android:id="@+id/dot3"
+        android:text="Creative Design"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:padding="10dp"
+        android:layout_margin="10dp" />
+
+    <TextView
+        android:id="@+id/dot4"
+        android:text="Innovative"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:padding="10dp"
+        android:layout_margin="10dp" />
+
+    <TextView
+        android:id="@+id/dot5"
+        android:text="Time Management"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:padding="10dp"
+        android:layout_margin="10dp" />
+
+    <TextView
+        android:id="@+id/dot6"
+        android:text="Complex Problem Solver"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:padding="10dp"
+        android:layout_margin="10dp" />
+
+
+
+
+
+</LinearLayout>
